@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Wikimedia Logo"
+   viewBox="-400 -525 798 1050"
+   width="608"
+   height="800"
+   sodipodi:docname="Commons-logo-en-NB.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <metadata
+     id="metadata83">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1340"
+     inkscape:window-height="965"
+     id="namedview81"
+     showgrid="false"
+     inkscape:zoom="0.59"
+     inkscape:cx="308.20796"
+     inkscape:cy="302.8698"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g27" />
+  <defs
+     id="defs5">
+    <clipPath
+       id="boundary">
+      <circle
+         r="298"
+         id="circle2" />
+    </clipPath>
+  </defs>
+  <circle
+     r="100"
+     fill="rgb(151,0,0)"
+     stroke="none"
+     id="circle7"
+     style="fill:#000000" />
+  <g
+     fill="rgb(0,100,153)"
+     stroke="rgb(0,100,153)"
+     id="g27">
+    <g
+       clip-path="url(#boundary)"
+       id="g23">
+      <g
+         id="arrow">
+        <line
+           stroke-width="22"
+           x1="0"
+           y1="300"
+           x2="0"
+           y2="180"
+           id="line9"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1" />
+        <path
+           stroke="none"
+           d="M -43,185 L 0,110 L 43,185 Z"
+           id="path11"
+           style="fill:#000000;fill-opacity:1" />
+      </g>
+      <g
+         id="three_arrows_lhs">
+        <use
+           xlink:href="#arrow"
+           transform="rotate(45)"
+           id="use14"
+           style="fill:#000000;fill-opacity:1" />
+        <use
+           xlink:href="#arrow"
+           transform="rotate(90)"
+           id="use16"
+           style="fill:#000000;fill-opacity:1" />
+        <use
+           xlink:href="#arrow"
+           transform="rotate(135)"
+           id="use18"
+           style="fill:#000000;fill-opacity:1" />
+      </g>
+      <use
+         xlink:href="#three_arrows_lhs"
+         transform="scale(-1 1)"
+         id="use21"
+         style="fill:#000000;fill-opacity:1" />
+    </g>
+    <path
+       id="blue_path"
+       transform="rotate(-45)"
+       d="m 0,-256 c -103.54222,0 -196.88974,62.37274 -236.51139,158.031569 -29.74202,71.806382 -24.81358,151.752906 10.46169,218.125641 11.71754,22.04733 26.78355,42.59692 45.03956,60.85293 73.21509,73.21509 183.3199407,95.12282 278.978571,55.50125 C 193.62726,196.88974 256,103.54222 256,0 c 0,-100 -101,-150 -6,-275"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke-width:84;stroke:#000000;stroke-opacity:1"
+       sodipodi:nodetypes="csssssc" />
+    <path
+       id="arrow_top"
+       stroke="none"
+       d="M -23,-515 C -23,-515 -59,-380 -103,-330 S 13,-392 67,-335 S -23,-515 -23,-515 Z"
+       style="fill:#000000" />
+  </g>
+  <defs
+     id="defs40">
+    <path
+       id="W"
+       d="M 0,720 L 320,0 h 144 l 195,438.75 l 195,-438.75 h 144 l 320,720 h -197 l -195,-438.75 l -195,438.75 h -144 l -195,-438.75 l -195,438.75 z" />
+    <path
+       id="I"
+       d="M 0,0 h 180 v 720 h -180 z" />
+    <path
+       id="K"
+       d="M  0,0 h 180 v 720 h -180 z M 90,360 l 360,-360 h 255 l -360,360 l 360,360 h -255 z" />
+    <path
+       id="M"
+       d="M 0,0 h 180 v 466 l 220,-220 l 220,220 V 0 h 180 v 720 h -180 l -220,-220 l -220,220 h -180 z" />
+    <path
+       id="E"
+       d="M 0,0 h 520 v 150 h -340 v 150 h 340 v150 h -340 v 120 h 340 v 150 h -520 z" />
+    <path
+       id="D"
+       d="M 0,0 h 360 a 360,360,0 0,1 0,720 h -360 z M 180,150 v 420 h 120 a 210,210,0 0,0 0,-420 z" />
+    <path
+       id="A"
+       d="M 0,0 h 196 l 194,453 l 194,-453 h 196 l -300,720 h -180 z M 180,120 h 450 v 120 h -450z" />
+    <path
+       id="C"
+       d="M 684,504 a 276,204,0 1,1 0,-288 V 60 a 432,360,0 1,0 0 600 z" />
+    <path
+       id="O"
+       d="M 0 360 a 408,360,0 0,0 816,0 a 408,360,0 0,0 -816,0 M 204,360 a 204,204,0 0,1 408,0 a 204,204,0 0,1 -408,0" />
+    <path
+       id="N"
+       d="M 0,0 h 180 v 434 L 504,0 h 180 v 720 h -180 v -434 L 180 720 h -180 z" />
+    <path
+       id="S"
+       d="M 15,83 C 93,14 186,0 265,0 C 425,0 545,156 485,292 S 190,445 190,525 S 370,610 490,505 V 655 C 435,690 370,720 260,720 S -35,615 30,460 S 330,300 330,220 S 150,120 15,245 z" />
+  </defs>
+  <g
+     fill="#666"
+     id="g78"
+     style="fill:#000000">
+    <g
+       transform="translate(0 415) scale(.111111111 -.111111111) translate(-3335)"
+       id="g60"
+       style="fill:#000000">
+      <use
+         xlink:href="#W"
+         id="use42"
+         style="fill:#000000" />
+      <use
+         xlink:href="#I"
+         x="1440"
+         id="use44"
+         style="fill:#000000" />
+      <use
+         xlink:href="#K"
+         x="1860"
+         id="use46"
+         style="fill:#000000" />
+      <use
+         xlink:href="#I"
+         x="2680"
+         id="use48"
+         style="fill:#000000" />
+      <use
+         xlink:href="#M"
+         x="3100"
+         id="use50"
+         style="fill:#000000" />
+      <use
+         xlink:href="#E"
+         x="4080"
+         id="use52"
+         style="fill:#000000" />
+      <use
+         xlink:href="#D"
+         x="4780"
+         id="use54"
+         style="fill:#000000" />
+      <use
+         xlink:href="#I"
+         x="5610"
+         id="use56"
+         style="fill:#000000" />
+      <use
+         xlink:href="#A"
+         x="5890"
+         id="use58"
+         style="fill:#000000" />
+    </g>
+    <g
+       transform="translate(0 515) scale(.111111111 -.111111111) translate(-2930)"
+       id="g76"
+       style="fill:#000000">
+      <use
+         xlink:href="#C"
+         id="use62"
+         style="fill:#000000" />
+      <use
+         xlink:href="#O"
+         x="768"
+         id="use64"
+         style="fill:#000000" />
+      <use
+         xlink:href="#M"
+         x="1686"
+         id="use66"
+         style="fill:#000000" />
+      <use
+         xlink:href="#M"
+         x="2666"
+         id="use68"
+         style="fill:#000000" />
+      <use
+         xlink:href="#O"
+         x="3574"
+         id="use70"
+         style="fill:#000000" />
+      <use
+         xlink:href="#N"
+         x="4492"
+         id="use72"
+         style="fill:#000000" />
+      <use
+         xlink:href="#S"
+         x="5357"
+         id="use74"
+         style="fill:#000000" />
+    </g>
+  </g>
+</svg>

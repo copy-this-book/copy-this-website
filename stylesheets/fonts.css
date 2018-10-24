@@ -1,0 +1,45 @@
+/* Here you can put your specific typography, layout styles. */
+
+/*FONTS*/
+@font-face {
+    font-family: 'glacial';
+    src: url('../fonts/glacialindifference-italic-webfont.woff2') format('woff2'),
+    url('../fonts/glacialindifference-italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'glacial';
+    src: url('../fonts/glacialindifference-regular-webfont.woff2') format('woff2'),
+    url('../fonts/glacialindifference-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'charis_sil';
+    src: url('../fonts/charissilb-webfont.woff2') format('woff2'),
+    url('../fonts/charissilb-webfont.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'charis_sil';
+    src: url('../fonts/charissili-webfont.woff2') format('woff2'),
+    url('../fonts/charissili-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'charis_sil';
+    src: url('../fonts/charissilr-webfont.woff2') format('woff2'),
+    url('../fonts/charissilr-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'notcouriersansregular';
+    src: url('../fonts/notcouriersans-webfont.woff2') format('woff2'),
+    url('../fonts/notcouriersans-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}

@@ -140,6 +140,11 @@ dd {
     width: 80%;
 }
 
+table tr td:first-child {
+    width: 24px;
+}
+
+
 /* RESPONSIVE */
 
 /* ÉCRAN SEULEMENT */
@@ -222,6 +227,8 @@ dd {
         line-height: 26px;
     }
 }
+
+
 
 /* IMPRESSION */
 
